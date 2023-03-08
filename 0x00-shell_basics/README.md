@@ -1,1 +1,1 @@
-Script that creates a directory in another directory
+Moves file betty from /tmp/ to /tmp/my_first_directory
