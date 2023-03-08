@@ -1,1 +1,1 @@
-Delete file named betty
+Deletes my_first_directory in /tmp/
