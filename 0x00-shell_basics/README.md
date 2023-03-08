@@ -1,1 +1,1 @@
-Display contents in long format and hidden files with user and group IDs numerically
+Script that creates a directory in another directory
